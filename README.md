@@ -8,7 +8,7 @@ A modern, responsive, and animated portfolio website built using **HTML**, **CSS
 
 ![Portfolio Preview](assets/preview.png)
 
-> Replace the screenshot above with your own portfolio preview.
+
 
 ---
 
