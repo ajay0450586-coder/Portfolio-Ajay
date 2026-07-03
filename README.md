@@ -6,7 +6,15 @@ A modern, responsive, and animated portfolio website built using **HTML**, **CSS
 
 ## 📸 Preview
 
-![Portfolio Preview](assets/preview.png)
+![Portfolio Preview](assets/
+<img width="1920" height="1020" alt="portfolio-1" src="https://github.com/user-attachments/assets/66849a22-cf46-4de3-90b8-9ed334fba240" />
+<img width="1920" height="1020" alt="portfolio-2" src="https://github.com/user-attachments/assets/105817b7-4376-4da2-862e-985e8c679e92" />
+<img width="1920" height="1020" alt="porfolio-3" src="https://github.com/user-attachments/assets/f3dd73be-f05e-472a-96bb-42440b8b0798" />
+<img width="1920" height="1020" alt="portfolio-4" src="https://github.com/user-attachments/assets/63366a05-2542-486f-9b4d-7686a8b955ee" />
+<img width="1920" height="1020" alt="portfolio-5" src="https://github.com/user-attachments/assets/bb1651a1-2c86-4e28-b6eb-b7975d584629" />
+
+
+)
 
 
 
